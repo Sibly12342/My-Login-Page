@@ -1,0 +1,11 @@
+body{
+height: 100%;
+font-family: Poppins-Regular,sans-serif;
+background-color: rgb(116, 213, 116);
+}
+.main{
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
