@@ -9,3 +9,6 @@ background-color: rgb(116, 213, 116);
     flex-direction: column;
     align-items: center;
 }
+img{
+    width: 50%;
+}
